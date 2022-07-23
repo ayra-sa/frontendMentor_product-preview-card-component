@@ -65,7 +65,7 @@ img {
 }
 
 .card_content figure {
-  /* height: 300px; */
+  height: 100%;
 }
 
 .card_content img {
